@@ -10,8 +10,8 @@
 - SSD: 512GB (KINGSTON SA2000M8500G)
 - Ethernet: Intel I219V14
 - WIFI: BCM943602CS + (FIX BY GUI APP: OpenCore-Patcher.app)
-- Bluetooth: Not Support ( BCM_4350C2 )
-- AirDrop: Not Support
+- Bluetooth: YES (BCM_4350C2)
+- AirDrop: YES
 - Thunderbolt: Not Support
 
 ### Docker
