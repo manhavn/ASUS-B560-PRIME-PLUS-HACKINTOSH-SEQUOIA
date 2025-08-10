@@ -9,7 +9,7 @@
 - RAM: 2 x 16GB 3200Mhz DDR4
 - SSD: 512GB (KINGSTON SA2000M8500G)
 - Ethernet: Intel I219V14
-- WIFI: BCM943602CS + (FIX BY GUI APP: OpenCore-Patcher.app)
+- WIFI: BCM943602CS + (FIX BY GUI APP: [OpenCore-Patcher-GUI.app.zip](https://github.com/dortania/OpenCore-Legacy-Patcher/releases/download/2.2.0/OpenCore-Patcher-GUI.app.zip), AND PACKAGE: [OpenCore-Patcher.pkg](https://github.com/dortania/OpenCore-Legacy-Patcher/releases) )
 - Bluetooth: YES (BCM_4350C2)
 - AirDrop: YES
 - Thunderbolt: Not Support
